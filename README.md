@@ -76,26 +76,24 @@ O objetivo é capacitar estudantes de baixa renda e pessoas iniciantes em tecnol
 ![Gráfico 4: Linguagens mais populares](data/linguagens_aprendidas.png)
 
 ##### **Métodos de Aprendizagem Preferidos**
-1. Cursos online ou tutoriais.
-2. Assistir vídeos no YouTube.
-3. Utilizar ajuda de Inteligência Artificial (ex.: Chat GPT).
-4. Praticar com projetos pequenos.
+1. **Utilizar ajuda de Inteligência Artificial (80,5%)**
+2. **Assistindo vídeos no Youtube (70,7%)**
+3. **Cursos online ou tutoriais (63,4%)**
 
 ![Gráfico 5: Métodos de aprendizagem preferidos](data/como_aprende.png)
 
 ##### **Motivações para Aprender Programação**
-- Necessidade para trabalho ou projetos.
-- Curiosidade por novas tecnologias.
-- Melhorar empregabilidade.
-- Aumentar conhecimento e habilidades gerais.
+1. **Necessidade para trabalho ou projeto (92,7%)**
+2. **Aumentar meu conhecimento e habilidades gerais (63,4%)**
+3. **Melhorar minha empregabilidade (61%)**
 
 ![Gráfico 6: Motivação para aprender](data/motivacao.png)
 
 ##### **Principais Desafios**
-- Ausência de tempo para estudar.
-- Dificuldade em encontrar exemplos práticos.
-- Complexidade inicial da linguagem.
-- Falta de apoio ou mentoria durante o aprendizado.
+1. **Ausência de tempo para estudar (70,7%)**
+2. **Dificuldade em encontrar exemplos práticos (48,8%)**
+3. **Falta de materiais acessíveis ou de qualidade (39%)**
+4. **Complexidade inicial da linguagem (39%)**
 
 ![Gráfico 7: Desmotivação para aprender](data/desmotivacao.png)
 ---
