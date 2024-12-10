@@ -119,7 +119,7 @@ O objetivo é capacitar estudantes de baixa renda e pessoas iniciantes em tecnol
 5. Tradutores acessam módulos para adaptar conteúdos ao idioma nativo.  
 6. Desenvolvedor em transição testa novos recursos aprendidos em projetos simples na plataforma.  
 7. Sistema sugere cursos adicionais com base no progresso do estudante.  
-8. Empresas patrocinam acesso gratuito para comunidades de baixa renda.
+8. Usuário termina de estudar um módulo e recebe uma sugestão de projeto da plataforma.
 
 ---
 
