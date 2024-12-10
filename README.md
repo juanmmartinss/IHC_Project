@@ -22,20 +22,17 @@ O objetivo é capacitar estudantes de baixa renda e pessoas iniciantes em tecnol
    - Pouca experiência técnica.  
    - Alta motivação para aprender.  
    - Acessam via celulares e computadores básicos.
-
-2. **Educadores/Instituições de Ensino**  
+     
+2. **Estudantes universitários**
+   - Buscando aprender novas linguagens
+   - Complementar sua formação acadêmica.
+  
+3. **Educadores/Instituições de Ensino**  
    - Experiência intermediária em tecnologia.  
-   - Interesse em integrar o sistema a currículos.
-
-3. **Desenvolvedores em Transição de Carreira**  
-   - Experiência limitada em programação.  
-   - Necessidade de aprendizado rápido e prático.
+   - Interesse em integrar o sistema em suas aulas.
 
 4. **Empresas de Tecnologia**  
    - Potenciais parceiros para infraestrutura ou patrocínio.
-
-5. **Tradutores Profissionais**  
-   - Suporte para conteúdo multilíngue.
 
 ---
 
