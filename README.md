@@ -4,7 +4,7 @@ Um sistema web acessível que utiliza IA para ensinar linguagens de programaçã
 
 ---
 
-## (a) Descrição sucinta do projeto
+## Descrição sucinta do projeto
 
 Um sistema web acessível que utiliza IA para ensinar linguagens de programação. Ele oferece:
 - Tradução automática de código entre linguagens.
@@ -15,7 +15,7 @@ O objetivo é capacitar estudantes de baixa renda e pessoas iniciantes em tecnol
 
 ---
 
-## (b) Stakeholders e descrição
+## Stakeholders e descrição
 
 ### **Stakeholders Identificados**
 1. **Estudantes de Baixa Renda**  
@@ -39,7 +39,7 @@ O objetivo é capacitar estudantes de baixa renda e pessoas iniciantes em tecnol
 
 ---
 
-## (c) Métodos de Pesquisa
+## Métodos de Pesquisa
 
 ### **Método 1: Google Forms (Pesquisa Online)**
 - **Justificativa**: Permite coletar dados de um público amplo de forma rápida e eficiente, ideal para validar hipóteses iniciais e entender as necessidades gerais dos usuários.  
@@ -75,7 +75,7 @@ O objetivo é capacitar estudantes de baixa renda e pessoas iniciantes em tecnol
 
 ---
 
-## (e) Descrições de tarefas
+## Descrições de tarefas
 
 1. Estudante inicia uma sessão para aprender Python básico com exercícios interativos.  
 2. Usuário traduz código Java para Python e realiza adaptações com dicas da IA.  
