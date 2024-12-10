@@ -18,15 +18,17 @@ O objetivo é capacitar estudantes de baixa renda e pessoas iniciantes em tecnol
 ## Stakeholders e descrição
 
 ### **Stakeholders Identificados**
-1. **Estudantes de Baixa Renda**  
+
+1. **Estudantes universitários**
+   - Principais usuários do sistema.
+   - Buscando aprender novas linguagens
+   - Complementar sua formação acadêmica.
+     
+2. **Estudantes de Baixa Renda**  
    - Pouca experiência técnica.  
    - Alta motivação para aprender.  
    - Acessam via celulares e computadores básicos.
-     
-2. **Estudantes universitários**
-   - Buscando aprender novas linguagens
-   - Complementar sua formação acadêmica.
-  
+       
 3. **Educadores/Instituições de Ensino**  
    - Experiência intermediária em tecnologia.  
    - Interesse em integrar o sistema em suas aulas.
