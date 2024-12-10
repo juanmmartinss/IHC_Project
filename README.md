@@ -1,6 +1,6 @@
 # IHC_Project
 
-Um sistema web acessível que utiliza IA para ensinar linguagens de programação. Ele oferece tradução automática de código entre linguagens e tutoriais interativos, visando capacitar estudantes de baixa renda e pessoas iniciantes em tecnologia. O sistema será usado em contextos educacionais, principalmente por indivíduos em busca de aprendizado técnico.
+Um sistema web acessível que utiliza IA para ensinar linguagens de programação. Ele oferece tradução automática de código entre linguagens e tutoriais interativos, visando capacitar estudantes universitários, de baixa renda e pessoas iniciantes em tecnologia. O sistema será usado em contextos educacionais, principalmente por indivíduos em busca de aprendizado técnico.
 
 ---
 
@@ -51,9 +51,14 @@ O objetivo é capacitar estudantes de baixa renda e pessoas iniciantes em tecnol
   - **BCC** (Bacharelado em Ciência da Computação)
   - **BIOMED** (Biomedicina)
   - **ECOMP** (Engenharia da Computação)
-- Os respondentes variam do **2º ao 11º período**, abrangendo estudantes com diferentes níveis de experiência acadêmica.
 
-![Gráfico 1](data/grafico_pizza_curso.png)
+ ![Gráfico 1: Curso dos Participantes](data/grafico_pizza_curso.png)
+
+ 
+- Os respondentes variam do **2º ao 11º período**, abrangendo estudantes com diferentes níveis de experiência acadêmica.
+- A maioria dos participantes estão no 8 período
+
+![Gráfico 2: Período dos Participantes](data/grafico_pizza_periodo.png)
 
 #### **Resultados**
 
