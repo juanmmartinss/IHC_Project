@@ -41,25 +41,63 @@ O objetivo é capacitar estudantes de baixa renda e pessoas iniciantes em tecnol
 
 ## Métodos de Pesquisa
 
-### **Método 1: Google Forms (Pesquisa Online)**
-- **Justificativa**: Permite coletar dados de um público amplo de forma rápida e eficiente, ideal para validar hipóteses iniciais e entender as necessidades gerais dos usuários.  
-- **Aplicação**: Um formulário online foi distribuído para estudantes de baixa renda e educadores, incluindo perguntas fechadas e abertas para capturar suas principais dificuldades e interesses no aprendizado de programação.  
-- **Descobertas**:
-  - **Barreiras**: Falta de acesso a recursos de ensino gratuitos e interativos.
-  - **Interesses**: Interesse em uma plataforma prática, com exercícios e suporte a múltiplas linguagens.
-  - **Feedback**: Necessidade de ferramentas acessíveis em dispositivos móveis e offline.
+### **Método 1: Pesquisa por Formulário Online (Google Forms)**
 
-### **Método 2: Entrevistas com Usuários**
-- **Justificativa**: Complementa os dados quantitativos do Google Forms com insights mais profundos sobre a experiência e as necessidades do usuário.  
-- **Aplicação**: Foram realizadas entrevistas com estudantes de baixa renda, desenvolvedores em transição de carreira e educadores, explorando expectativas e dificuldades com ferramentas de aprendizado existentes.  
-- **Descobertas**:
-  - **Estudantes**: Desejam conteúdo mais visual e interativo, com menos foco em teoria extensa.
-  - **Educadores**: Precisam de ferramentas para criar e monitorar turmas de forma simplificada.
-  - **Desenvolvedores**: Demandam exemplos práticos que ajudem a aplicar o aprendizado no mercado de trabalho.
+#### **Justificativa**
+- Permite coletar dados de um público amplo de forma rápida e eficiente, ideal para validar hipóteses iniciais e entender as necessidades gerais dos usuários.
+
+#### **Perfil dos Respondentes**
+- A maioria dos participantes são estudantes dos cursos:
+  - **BCT** (Bacharelado em Ciência e Tecnologia)
+  - **BCC** (Bacharelado em Ciência da Computação)
+  - **BIOMED** (Biomedicina)
+  - **ECOMP** (Engenharia da Computação)
+- Os respondentes variam do **2º ao 11º período**, abrangendo estudantes com diferentes níveis de experiência acadêmica.
+
+#### **Resultados**
+
+##### **Experiência Prévia**
+- A maioria dos respondentes já possui experiência com programação.
+
+##### **Linguagens Mais Populares**
+- **Python**
+- **C**
+- **JavaScript**
+- **HTML/CSS**
+
+##### **Métodos de Aprendizagem Preferidos**
+1. Cursos online ou tutoriais.
+2. Assistir vídeos no YouTube.
+3. Utilizar ajuda de Inteligência Artificial (ex.: Chat GPT).
+4. Praticar com projetos pequenos.
+
+##### **Motivações para Aprender Programação**
+- Necessidade para trabalho ou projetos.
+- Curiosidade por novas tecnologias.
+- Melhorar empregabilidade.
+- Aumentar conhecimento e habilidades gerais.
+
+##### **Principais Desafios**
+- Ausência de tempo para estudar.
+- Dificuldade em encontrar exemplos práticos.
+- Complexidade inicial da linguagem.
+- Falta de apoio ou mentoria durante o aprendizado.
 
 ---
 
-## (d) Reflexão sobre os métodos
+### **Método 2: Entrevistas com Usuários**
+
+#### **Justificativa**
+- Complementa os dados quantitativos do Google Forms com insights mais profundos sobre a experiência e as necessidades do usuário.
+
+#### **Descobertas**
+- **Estudantes**: Preferem conteúdo visual e interativo, com menos foco em teoria extensa.
+- **Educadores**: Desejam ferramentas para criar e monitorar turmas de forma simplificada.
+- **Desenvolvedores**: Demandam exemplos práticos que ajudem na aplicação do aprendizado.
+
+---
+
+## Reflexão sobre os métodos
 
 - **O que deu certo**:  
   - O Google Forms capturou respostas de um número maior de pessoas, identificando tendências gerais.
