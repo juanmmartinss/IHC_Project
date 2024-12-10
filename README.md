@@ -68,10 +68,10 @@ O objetivo é capacitar estudantes de baixa renda e pessoas iniciantes em tecnol
 ![Gráfico 3: Participantes que já programaram](data/grafico_pizza_ja_prog.png)
 
 ##### **Linguagens Mais Populares**
-- **Python**
-- **C**
-- **JavaScript**
-- **HTML/CSS**
+1. **C (92,7%)**
+2. **Python (82,9%)**
+3. **SQL (51,2%)**
+4. **HTML/CSS (48,8%)**
 
 ![Gráfico 4: Linguagens mais populares](data/linguagens_aprendidas.png)
 
