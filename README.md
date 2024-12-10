@@ -81,11 +81,15 @@ O objetivo é capacitar estudantes de baixa renda e pessoas iniciantes em tecnol
 3. Utilizar ajuda de Inteligência Artificial (ex.: Chat GPT).
 4. Praticar com projetos pequenos.
 
+![Gráfico 5: Métodos de aprendizagem preferidos](data/como_aprende.png)
+
 ##### **Motivações para Aprender Programação**
 - Necessidade para trabalho ou projetos.
 - Curiosidade por novas tecnologias.
 - Melhorar empregabilidade.
 - Aumentar conhecimento e habilidades gerais.
+
+![Gráfico 6: Motivação para aprender](data/motivacao.png)
 
 ##### **Principais Desafios**
 - Ausência de tempo para estudar.
@@ -93,6 +97,7 @@ O objetivo é capacitar estudantes de baixa renda e pessoas iniciantes em tecnol
 - Complexidade inicial da linguagem.
 - Falta de apoio ou mentoria durante o aprendizado.
 
+![Gráfico 7: Desmotivação para aprender](data/desmotivacao.png)
 ---
 
 ### **Método 2: Entrevistas com Usuários**
