@@ -63,7 +63,9 @@ O objetivo é capacitar estudantes de baixa renda e pessoas iniciantes em tecnol
 #### **Resultados**
 
 ##### **Experiência Prévia**
-- A maioria dos respondentes já possui experiência com programação.
+- Todos respondentes já aprenderam alguma linguagem de programação.
+
+![Gráfico 3: Participantes que já programaram](data/grafico_pizza_ja_prog.png)
 
 ##### **Linguagens Mais Populares**
 - **Python**
