@@ -51,6 +51,8 @@ O objetivo é capacitar estudantes de baixa renda e pessoas iniciantes em tecnol
   - **ECOMP** (Engenharia da Computação)
 - Os respondentes variam do **2º ao 11º período**, abrangendo estudantes com diferentes níveis de experiência acadêmica.
 
+![Texto alternativo](../data/grafico_pizza_curso.png)
+
 #### **Resultados**
 
 ##### **Experiência Prévia**
