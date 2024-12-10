@@ -8,13 +8,17 @@ Estudantes de Baixa Renda:
 Pouca experiência técnica.
 Alta motivação para aprender.
 Acessam via celulares e computadores básicos.
+
 Educadores/Instituições de Ensino:
 Experiência intermediária em tecnologia.
 Interesse em integrar o sistema a currículos.
+
 Desenvolvedores em Transição de Carreira:
 Experiência limitada em programação.
 Necessidade de aprendizado rápido e prático.
+
 Empresas de Tecnologia:
 Potenciais parceiros para infraestrutura ou patrocínio.
+
 Tradutores Profissionais:
 Suporte para conteúdo multilíngue.
