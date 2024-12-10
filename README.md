@@ -102,11 +102,11 @@ O objetivo é capacitar estudantes de baixa renda e pessoas iniciantes em tecnol
 
 - **O que deu certo**:  
   - O Google Forms capturou respostas de um número maior de pessoas, identificando tendências gerais.
-  - As entrevistas trouxeram insights detalhados, como a preferência por suporte em dispositivos móveis e conteúdo offline.
+  - As entrevistas trouxeram insights detalhados, como a preferência por métodos de estudo entre o público alvo.
 
 - **O que deu errado**:  
   - Algumas respostas do Google Forms foram genéricas, dificultando interpretações mais precisas.
-  - Durante as entrevistas, alguns participantes não estavam à vontade para se expressar claramente.
+  - Durante as entrevistas, tivemos dificuldade em conseguir marcar horário com grupos distintos do público alvo.
 
 - **O que fazer diferente**:  
   - Planejar perguntas mais específicas no formulário para obter respostas mais acionáveis.
