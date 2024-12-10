@@ -73,6 +73,8 @@ O objetivo é capacitar estudantes de baixa renda e pessoas iniciantes em tecnol
 - **JavaScript**
 - **HTML/CSS**
 
+![Gráfico 4: Linguagens mais populares](data/linguagens_aprendidas.png)
+
 ##### **Métodos de Aprendizagem Preferidos**
 1. Cursos online ou tutoriais.
 2. Assistir vídeos no YouTube.
