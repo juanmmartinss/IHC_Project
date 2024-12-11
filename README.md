@@ -174,6 +174,6 @@ O objetivo é capacitar estudantes de baixa renda e pessoas iniciantes em tecnol
 ## Links para materiais utilizados
 
 - **Google Forms**: [Formulário com perguntas sobre aprendizado de programação.](https://docs.google.com/forms/d/1S-TtzEmtre37M9S_ZhaAysFkK9JiqLhgi4GGqu53xXI/edit?ts=674f1f2e) 
-- **Google Drive**: Contém as gravações e a transcrição / resumo realizado por uma IA.
+- **Google Drive**: [Contém as gravações e a transcrição / resumo realizado por uma IA.](https://drive.google.com/drive/folders/1o9tZ_8qSOX7qhFD5cbRswIgOyzq8cAs5?usp=sharing)
 
 ---
