@@ -104,10 +104,42 @@ O objetivo é capacitar estudantes de baixa renda e pessoas iniciantes em tecnol
 - Complementa os dados quantitativos do Google Forms com insights mais profundos sobre a experiência e as necessidades do usuário.
 
 #### **Descobertas**
-- **Estudantes**: Preferem conteúdo visual e interativo, com menos foco em teoria extensa.
-- **Educadores**: Desejam ferramentas para criar e monitorar turmas de forma simplificada.
-- **Desenvolvedores**: Demandam exemplos práticos que ajudem na aplicação do aprendizado.
+**1. Preferências de Aprendizado:**
 
+- Material escrito com exemplos práticos e exercícios para fixação
+- Conteúdo visual e interativo, com menos foco em teoria extensa
+- Uso de inteligência artificial (como ChatGPT) para entender conceitos e comparar linguagens
+
+
+
+**2. Recursos Valorizados:**
+
+- Documentação técnica clara e acessível
+- Exemplos de código com explicações detalhadas
+- Comparações entre diferentes linguagens de programação
+
+
+
+**3. Abordagem de Aprendizado:**
+
+- Começar com conceitos básicos e progredir para aplicações práticas
+- Aprender por meio de projetos e resolução de problemas reais
+- Utilizar fóruns e comunidades online para tirar dúvidas
+
+
+
+**4. Desafios Identificados:**
+
+- Dificuldade em encontrar recursos que equilibrem teoria e prática
+- Necessidade de adaptação rápida a novas linguagens ou frameworks
+
+
+
+**5. Sugestões para a Plataforma:**
+
+- Integração de IA para assistência personalizada
+- Ferramentas para comparação de código entre diferentes linguagens
+- Sistema de progressão que guie o usuário do básico ao avançado
 ---
 
 ## Reflexão sobre os métodos
