@@ -149,12 +149,12 @@ O objetivo é capacitar estudantes de baixa renda e pessoas iniciantes em tecnol
   - As entrevistas trouxeram insights detalhados, como a preferência por métodos de estudo entre o público alvo.
 
 - **O que deu errado**:  
-  - Algumas respostas do Google Forms foram genéricas, dificultando interpretações mais precisas.
-  - Durante as entrevistas, tivemos dificuldade em conseguir marcar horário com grupos distintos do público alvo.
+  - A grande maioria das respostas do forms foram feitas por pessoas nos semestres mais avançados.
+  - Durante as entrevistas, tivemos dificuldade em conseguir marcar horário com diferentes partes do público-alvo.
 
 - **O que fazer diferente**:  
-  - Planejar perguntas mais específicas no formulário para obter respostas mais acionáveis.
-  - Fornecer exemplos visuais ou práticos nas entrevistas para facilitar a comunicação.
+  - Buscar algum incentivo para atingir um grupo maior de respondentes.
+  - Conseguir marcar entrevistas com mais pessoas, ou seja atingindo todas partes do público-alvo.
 
 ---
 
