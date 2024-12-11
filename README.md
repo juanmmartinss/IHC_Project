@@ -164,7 +164,7 @@ O objetivo é capacitar estudantes de baixa renda e pessoas iniciantes em tecnol
 2. Usuário traduz código Java para Python e realiza adaptações com dicas da IA.  
 3. Educador cria uma turma e compartilha material personalizado pela plataforma.  
 4. Usuário recebe feedback em tempo real para corrigir erros de sintaxe.  
-5. Tradutores acessam módulos para adaptar conteúdos ao idioma nativo.  
+5. Estudante utiliza um curso sobre biblioteca específica que precisa ser utlizada.  
 6. Desenvolvedor em transição testa novos recursos aprendidos em projetos simples na plataforma.  
 7. Sistema sugere cursos adicionais com base no progresso do estudante.  
 8. Usuário termina de estudar um módulo e recebe uma sugestão de projeto da plataforma.
