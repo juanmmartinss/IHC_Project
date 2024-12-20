@@ -177,3 +177,8 @@ O objetivo é capacitar estudantes de baixa renda e pessoas iniciantes em tecnol
 - **Google Drive**: [Contém as gravações e a transcrição / resumo realizado por uma IA.](https://drive.google.com/drive/folders/1o9tZ_8qSOX7qhFD5cbRswIgOyzq8cAs5?usp=sharing)
 
 ---
+
+## Protótipo de baixa fidelidade
+
+- **Balsamiq**: [Protótipo de baixa fidelidade produzido no Balsamiq.](https://balsamiq.cloud/saqyha4/pbrw3qu)
+- **Brainstormings**: Disponível em data/sketches
