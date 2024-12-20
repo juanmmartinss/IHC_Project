@@ -95,7 +95,7 @@ O objetivo é capacitar estudantes de baixa renda e pessoas iniciantes em tecnol
 3. **Falta de materiais acessíveis ou de qualidade (39%)**
 4. **Complexidade inicial da linguagem (39%)**
 
-![Gráfico 7: Desmotivação para aprender](data/desmotivacao.png)
+![Gráfico 7: Desmotivação para aprender](data/search/desmotivacao.png)
 ---
 
 ### **Método 2: Entrevistas com Usuários**
