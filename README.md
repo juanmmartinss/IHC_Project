@@ -52,20 +52,20 @@ O objetivo é capacitar estudantes de baixa renda e pessoas iniciantes em tecnol
   - **BIOMED** (Biomedicina)
   - **ECOMP** (Engenharia da Computação)
 
- ![Gráfico 1: Curso dos Participantes](data/grafico_pizza_curso.png)
+ ![Gráfico 1: Curso dos Participantes](data/search/grafico_pizza_curso.png)
 
  
 - Os respondentes variam do **2º ao 11º período**, abrangendo estudantes com diferentes níveis de experiência acadêmica.
 - A maioria dos participantes estão no 8 período
 
-![Gráfico 2: Período dos Participantes](data/grafico_pizza_periodo.png)
+![Gráfico 2: Período dos Participantes](data/search/grafico_pizza_periodo.png)
 
 #### **Resultados**
 
 ##### **Experiência Prévia**
 - Todos respondentes já aprenderam alguma linguagem de programação.
 
-![Gráfico 3: Participantes que já programaram](data/grafico_pizza_ja_prog.png)
+![Gráfico 3: Participantes que já programaram](data/search/grafico_pizza_ja_prog.png)
 
 ##### **Linguagens Mais Populares**
 1. **C (92,7%)**
@@ -73,21 +73,21 @@ O objetivo é capacitar estudantes de baixa renda e pessoas iniciantes em tecnol
 3. **SQL (51,2%)**
 4. **HTML/CSS (48,8%)**
 
-![Gráfico 4: Linguagens mais populares](data/linguagens_aprendidas.png)
+![Gráfico 4: Linguagens mais populares](data/search/linguagens_aprendidas.png)
 
 ##### **Métodos de Aprendizagem Preferidos**
 1. **Utilizar ajuda de Inteligência Artificial (80,5%)**
 2. **Assistindo vídeos no Youtube (70,7%)**
 3. **Cursos online ou tutoriais (63,4%)**
 
-![Gráfico 5: Métodos de aprendizagem preferidos](data/como_aprende.png)
+![Gráfico 5: Métodos de aprendizagem preferidos](data/search/como_aprende.png)
 
 ##### **Motivações para Aprender Programação**
 1. **Necessidade para trabalho ou projeto (92,7%)**
 2. **Aumentar meu conhecimento e habilidades gerais (63,4%)**
 3. **Melhorar minha empregabilidade (61%)**
 
-![Gráfico 6: Motivação para aprender](data/motivacao.png)
+![Gráfico 6: Motivação para aprender](data/search/motivacao.png)
 
 ##### **Principais Desafios**
 1. **Ausência de tempo para estudar (70,7%)**
