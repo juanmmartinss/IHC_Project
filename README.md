@@ -1,184 +1,129 @@
-# IHC_Project
-
-Um sistema web acessível que utiliza IA para ensinar linguagens de programação. Ele oferece tradução automática de código entre linguagens e tutoriais interativos, visando capacitar estudantes universitários, de baixa renda e pessoas iniciantes em tecnologia. O sistema será usado em contextos educacionais, principalmente por indivíduos em busca de aprendizado técnico.
-
----
-
-## Descrição sucinta do projeto
-
-Um sistema web acessível que utiliza IA para ensinar linguagens de programação. Ele oferece:
-- Tradução automática de código entre linguagens.
-- Tutoriais interativos.
-- Suporte para aprendizado em dispositivos móveis e offline.
-
-O objetivo é capacitar estudantes de baixa renda e pessoas iniciantes em tecnologia, promovendo inclusão e acessibilidade no aprendizado técnico.
-
----
-
-## Stakeholders e descrição
-
-### **Stakeholders Identificados**
-
-1. **Estudantes universitários**
-   - Principais usuários do sistema.
-   - Buscando aprender novas linguagens
-   - Complementar sua formação acadêmica.
-     
-2. **Estudantes de Baixa Renda**  
-   - Pouca experiência técnica.  
-   - Alta motivação para aprender.  
-   - Acessam via celulares e computadores básicos.
-       
-3. **Educadores/Instituições de Ensino**  
-   - Experiência intermediária em tecnologia.  
-   - Interesse em integrar o sistema em suas aulas.
-
-4. **Empresas de Tecnologia**  
-   - Potenciais parceiros para infraestrutura ou patrocínio.
-
----
-
-## Métodos de Pesquisa
-
-### **Método 1: Pesquisa por Formulário Online (Google Forms)**
-
-#### **Justificativa**
-- Permite coletar dados de um público amplo de forma rápida e eficiente, ideal para validar hipóteses iniciais e entender as necessidades gerais dos usuários.
-
-#### **Perfil dos Respondentes**
-- A maioria dos participantes são estudantes dos cursos:
-  - **BCT** (Bacharelado em Ciência e Tecnologia)
-  - **BCC** (Bacharelado em Ciência da Computação)
-  - **BIOMED** (Biomedicina)
-  - **ECOMP** (Engenharia da Computação)
-
- ![Gráfico 1: Curso dos Participantes](data/search/grafico_pizza_curso.png)
-
- 
-- Os respondentes variam do **2º ao 11º período**, abrangendo estudantes com diferentes níveis de experiência acadêmica.
-- A maioria dos participantes estão no 8 período
-
-![Gráfico 2: Período dos Participantes](data/search/grafico_pizza_periodo.png)
-
-#### **Resultados**
-
-##### **Experiência Prévia**
-- Todos respondentes já aprenderam alguma linguagem de programação.
-
-![Gráfico 3: Participantes que já programaram](data/search/grafico_pizza_ja_prog.png)
-
-##### **Linguagens Mais Populares**
-1. **C (92,7%)**
-2. **Python (82,9%)**
-3. **SQL (51,2%)**
-4. **HTML/CSS (48,8%)**
-
-![Gráfico 4: Linguagens mais populares](data/search/linguagens_aprendidas.png)
-
-##### **Métodos de Aprendizagem Preferidos**
-1. **Utilizar ajuda de Inteligência Artificial (80,5%)**
-2. **Assistindo vídeos no Youtube (70,7%)**
-3. **Cursos online ou tutoriais (63,4%)**
-
-![Gráfico 5: Métodos de aprendizagem preferidos](data/search/como_aprende.png)
-
-##### **Motivações para Aprender Programação**
-1. **Necessidade para trabalho ou projeto (92,7%)**
-2. **Aumentar meu conhecimento e habilidades gerais (63,4%)**
-3. **Melhorar minha empregabilidade (61%)**
-
-![Gráfico 6: Motivação para aprender](data/search/motivacao.png)
-
-##### **Principais Desafios**
-1. **Ausência de tempo para estudar (70,7%)**
-2. **Dificuldade em encontrar exemplos práticos (48,8%)**
-3. **Falta de materiais acessíveis ou de qualidade (39%)**
-4. **Complexidade inicial da linguagem (39%)**
-
-![Gráfico 7: Desmotivação para aprender](data/search/desmotivacao.png)
----
-
-### **Método 2: Entrevistas com Usuários**
-
-#### **Justificativa**
-- Complementa os dados quantitativos do Google Forms com insights mais profundos sobre a experiência e as necessidades do usuário.
-
-#### **Descobertas**
-**1. Preferências de Aprendizado:**
-
-- Material escrito com exemplos práticos e exercícios para fixação
-- Conteúdo visual e interativo, com menos foco em teoria extensa
-- Uso de inteligência artificial (como ChatGPT) para entender conceitos e comparar linguagens
-
-
-
-**2. Recursos Valorizados:**
-
-- Documentação técnica clara e acessível
-- Exemplos de código com explicações detalhadas
-- Comparações entre diferentes linguagens de programação
-
-
-
-**3. Abordagem de Aprendizado:**
-
-- Começar com conceitos básicos e progredir para aplicações práticas
-- Aprender por meio de projetos e resolução de problemas reais
-- Utilizar fóruns e comunidades online para tirar dúvidas
-
-
-
-**4. Desafios Identificados:**
-
-- Dificuldade em encontrar recursos que equilibrem teoria e prática
-- Necessidade de adaptação rápida a novas linguagens ou frameworks
-
-
-
-**5. Sugestões para a Plataforma:**
-
-- Integração de IA para assistência personalizada
-- Ferramentas para comparação de código entre diferentes linguagens
-- Sistema de progressão que guie o usuário do básico ao avançado
----
-
-## Reflexão sobre os métodos
-
-- **O que deu certo**:  
-  - O Google Forms capturou respostas de um número maior de pessoas, identificando tendências gerais.
-  - As entrevistas trouxeram insights detalhados, como a preferência por métodos de estudo entre o público alvo.
-
-- **O que deu errado**:  
-  - A grande maioria das respostas do forms foram feitas por pessoas nos semestres mais avançados.
-  - Durante as entrevistas, tivemos dificuldade em conseguir marcar horário com diferentes partes do público-alvo.
-
-- **O que fazer diferente**:  
-  - Buscar algum incentivo para atingir um grupo maior de respondentes.
-  - Conseguir marcar entrevistas com mais pessoas, ou seja atingindo todas partes do público-alvo.
-
----
-
-## Descrições de tarefas
-
-1. Estudante inicia uma sessão para aprender Python básico com exercícios interativos.  
-2. Usuário traduz código Java para Python e realiza adaptações com dicas da IA.  
-3. Educador cria uma turma e compartilha material personalizado pela plataforma.  
-4. Usuário recebe feedback em tempo real para corrigir erros de sintaxe.  
-5. Estudante utiliza um curso sobre biblioteca específica que precisa ser utlizada.  
-6. Desenvolvedor em transição testa novos recursos aprendidos em projetos simples na plataforma.  
-7. Sistema sugere cursos adicionais com base no progresso do estudante.  
-8. Usuário termina de estudar um módulo e recebe uma sugestão de projeto da plataforma.
-
----
-
-## Links para materiais utilizados
-
-- **Google Forms**: [Formulário com perguntas sobre aprendizado de programação.](https://docs.google.com/forms/d/1S-TtzEmtre37M9S_ZhaAysFkK9JiqLhgi4GGqu53xXI/edit?ts=674f1f2e) 
-- **Google Drive**: [Contém as gravações e a transcrição / resumo realizado por uma IA.](https://drive.google.com/drive/folders/1o9tZ_8qSOX7qhFD5cbRswIgOyzq8cAs5?usp=sharing)
-
----
-
-## Protótipo de baixa fidelidade
-
-- **Balsamiq**: [Protótipo de baixa fidelidade produzido no Balsamiq.](https://balsamiq.cloud/saqyha4/pbrw3qu)
-- **Brainstormings**: Disponível em data/sketches
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IHC_Project</title>
+</head>
+<body>
+    <header>
+        <h1>IHC_Project</h1>
+        <p>
+            Um sistema web acessível que utiliza IA para ensinar linguagens de programação. Ele oferece tradução automática de código entre linguagens e tutoriais interativos, visando capacitar estudantes universitários, de baixa renda e pessoas iniciantes em tecnologia. O sistema será usado em contextos educacionais, principalmente por indivíduos em busca de aprendizado técnico.
+        </p>
+    </header>
+    <hr>
+    <section>
+        <h2>Descrição sucinta do projeto</h2>
+        <p>
+            Um sistema web acessível que utiliza IA para ensinar linguagens de programação. Ele oferece:
+        </p>
+        <ul>
+            <li>Tradução automática de código entre linguagens.</li>
+            <li>Tutoriais interativos.</li>
+            <li>Suporte para aprendizado em dispositivos móveis e offline.</li>
+        </ul>
+        <p>
+            O objetivo é capacitar estudantes de baixa renda e pessoas iniciantes em tecnologia, promovendo inclusão e acessibilidade no aprendizado técnico.
+        </p>
+    </section>
+    <hr>
+    <section>
+        <h2>Stakeholders e descrição</h2>
+        <h3>Stakeholders Identificados</h3>
+        <ol>
+            <li><strong>Estudantes universitários</strong>
+                <ul>
+                    <li>Principais usuários do sistema.</li>
+                    <li>Buscando aprender novas linguagens.</li>
+                    <li>Complementar sua formação acadêmica.</li>
+                </ul>
+            </li>
+            <li><strong>Estudantes de Baixa Renda</strong>
+                <ul>
+                    <li>Pouca experiência técnica.</li>
+                    <li>Alta motivação para aprender.</li>
+                    <li>Acessam via celulares e computadores básicos.</li>
+                </ul>
+            </li>
+            <li><strong>Educadores/Instituições de Ensino</strong>
+                <ul>
+                    <li>Experiência intermediária em tecnologia.</li>
+                    <li>Interesse em integrar o sistema em suas aulas.</li>
+                </ul>
+            </li>
+            <li><strong>Empresas de Tecnologia</strong>
+                <ul>
+                    <li>Potenciais parceiros para infraestrutura ou patrocínio.</li>
+                </ul>
+            </li>
+        </ol>
+    </section>
+    <hr>
+    <section>
+        <h2>Métodos de Pesquisa</h2>
+        <h3>Método 1: Pesquisa por Formulário Online (Google Forms)</h3>
+        <h4>Justificativa</h4>
+        <p>
+            Permite coletar dados de um público amplo de forma rápida e eficiente, ideal para validar hipóteses iniciais e entender as necessidades gerais dos usuários.
+        </p>
+        <h4>Perfil dos Respondentes</h4>
+        <ul>
+            <li>A maioria dos participantes são estudantes dos cursos:
+                <ul>
+                    <li><strong>BCT</strong> (Bacharelado em Ciência e Tecnologia)</li>
+                    <li><strong>BCC</strong> (Bacharelado em Ciência da Computação)</li>
+                    <li><strong>BIOMED</strong> (Biomedicina)</li>
+                    <li><strong>ECOMP</strong> (Engenharia da Computação)</li>
+                </ul>
+            </li>
+            <li>Os respondentes variam do <strong>2º ao 11º período</strong>, abrangendo estudantes com diferentes níveis de experiência acadêmica.</li>
+            <li>A maioria dos participantes estão no 8º período.</li>
+        </ul>
+        <img src="data/search/grafico_pizza_curso.png" alt="Gráfico 1: Curso dos Participantes">
+        <img src="data/search/grafico_pizza_periodo.png" alt="Gráfico 2: Período dos Participantes">
+        <h4>Resultados</h4>
+        <h5>Experiência Prévia</h5>
+        <p>Todos respondentes já aprenderam alguma linguagem de programação.</p>
+        <img src="data/search/grafico_pizza_ja_prog.png" alt="Gráfico 3: Participantes que já programaram">
+        <h5>Linguagens Mais Populares</h5>
+        <ol>
+            <li><strong>C (92,7%)</strong></li>
+            <li><strong>Python (82,9%)</strong></li>
+            <li><strong>SQL (51,2%)</strong></li>
+            <li><strong>HTML/CSS (48,8%)</strong></li>
+        </ol>
+        <img src="data/search/linguagens_aprendidas.png" alt="Gráfico 4: Linguagens mais populares">
+        <h5>Métodos de Aprendizagem Preferidos</h5>
+        <ol>
+            <li><strong>Utilizar ajuda de Inteligência Artificial (80,5%)</strong></li>
+            <li><strong>Assistindo vídeos no YouTube (70,7%)</strong></li>
+            <li><strong>Cursos online ou tutoriais (63,4%)</strong></li>
+        </ol>
+        <img src="data/search/como_aprende.png" alt="Gráfico 5: Métodos de aprendizagem preferidos">
+        <h5>Motivações para Aprender Programação</h5>
+        <ol>
+            <li><strong>Necessidade para trabalho ou projeto (92,7%)</strong></li>
+            <li><strong>Aumentar meu conhecimento e habilidades gerais (63,4%)</strong></li>
+            <li><strong>Melhorar minha empregabilidade (61%)</strong></li>
+        </ol>
+        <img src="data/search/motivacao.png" alt="Gráfico 6: Motivação para aprender">
+        <h5>Principais Desafios</h5>
+        <ol>
+            <li><strong>Ausência de tempo para estudar (70,7%)</strong></li>
+            <li><strong>Dificuldade em encontrar exemplos práticos (48,8%)</strong></li>
+            <li><strong>Falta de materiais acessíveis ou de qualidade (39%)</strong></li>
+            <li><strong>Complexidade inicial da linguagem (39%)</strong></li>
+        </ol>
+        <img src="data/search/desmotivacao.png" alt="Gráfico 7: Desmotivação para aprender">
+    </section>
+    <hr>
+    <section>
+        <h2>Links para materiais utilizados</h2>
+        <ul>
+            <li><a href="https://docs.google.com/forms/d/1S-TtzEmtre37M9S_ZhaAysFkK9JiqLhgi4GGqu53xXI/edit?ts=674f1f2e" target="_blank">Google Forms</a></li>
+            <li><a href="https://drive.google.com/drive/folders/1o9tZ_8qSOX7qhFD5cbRswIgOyzq8cAs5?usp=sharing" target="_blank">Google Drive</a></li>
+        </ul>
+    </section>
+</body>
+</html>
