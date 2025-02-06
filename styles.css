@@ -7,11 +7,16 @@
 
 /* Configuração geral do body */
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background-color: #122243;
     color: #FFFFFF;
-    margin: 0;
-    padding: 0; /* Removemos o padding-left geral */
+    line-height: 1.6;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
 }
 
 /* Ajustando o header */
@@ -19,33 +24,95 @@ header {
     background-color: #687798;
     color: #FFFFFF;
     text-align: center;
-    padding: 20px;
-    font-size: 40px;
-    font-weight: bold;
-    width: 100%;
-    margin: 0;
+    padding: 40px 20px;
+    margin-bottom: 20px;
 }
 
-/* Aplicamos o padding apenas nos elementos que precisam */
-ul, ol {
-    padding-left: 60px; /* 40px + 20px do padding removido do body */
+header h1 {
+    font-size: 48px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+header .tagline {
+    font-size: 20px;
+    font-style: italic;
+}
+
+/* Estilos para seções */
+section {
+    margin-bottom: 40px;
+    padding: 20px;
+    background-color: #1a2a4f;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+h2 {
+    font-size: 32px;
+    margin-bottom: 20px;
+    color: #ffffff;
+    border-bottom: 2px solid #687798;
+    padding-bottom: 10px;
+}
+
+h3 {
+    font-size: 24px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    color: #ffffff;
+}
+
+h4, h5 {
+    font-size: 20px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+    color: #ffffff;
 }
 
 p {
-    margin-top: 20px;
     font-size: 18px;
-    padding-left: 20px; /* Adicionamos o padding diretamente nos elementos */
+    margin-bottom: 15px;
+    color: #e0e0e0;
 }
 
-/* Se precisar de mais elementos alinhados com o padding */
-h1, h2, h3, h4, h5, div, section {
-    padding-left: 20px;
-    margin-top: 5px;
-    margin-bottom: 5px;
+ul, ol {
+    margin-left: 40px;
+    margin-bottom: 20px;
+}
+
+li {
+    margin-bottom: 10px;
+    color: #e0e0e0;
 }
 
 img {
-    display: block; /* Transforma a imagem em elemento block */
-    margin-left: auto;
-    margin-right: auto;
+    display: block;
+    margin: 20px auto;
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+a {
+    color: #687798;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Footer */
+footer {
+    background-color: #687798;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 20px;
+    margin-top: 40px;
+}
+
+footer p {
+    margin: 0;
+    font-size: 16px;
 }
